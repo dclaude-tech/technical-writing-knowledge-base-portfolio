@@ -63,6 +63,13 @@ https://community.sailpoint.com/t5/Community-Tutorials/tkb-p/community-tutorials
 - Community operations
 - Process documentation
 
+## Public Work Context
+
+To provide additional context for my SaaS community support and documentation experience, I’ve included links to my public community profiles below. These profiles reflect public-facing work in technical community support, user engagement, and knowledge-sharing environments.
+
+- SailPoint Compass Community Profile: [https://community.sailpoint.com/t5/user/viewprofilepage/user-id/42267]
+- SailPoint Developer Community Profile: [https://developer.sailpoint.com/discuss/u/darylclaude_medina/activity]
+
 ## Content Ownership Note
 
 Some work referenced in this portfolio was created in the scope of employment and remains the property of the respective employer. This repository summarizes my role, responsibilities, and transferable skills without reproducing article text, screenshots, PDFs, internal documentation, proprietary assets, logos, or confidential information.
